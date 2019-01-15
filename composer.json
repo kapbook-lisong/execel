@@ -1,0 +1,15 @@
+{
+  "name": "execel/execel-file",
+  "authors": [
+    {
+      "name": "lisong",
+      "email": "lisong@tbook.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Execel\\ExecelFile\\": "src/"
+    }
+  },
+  "require": {}
+}
